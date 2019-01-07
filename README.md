@@ -16,9 +16,6 @@ Download latest python version from
 Install module beautifulSoup
 > pip3 install bs4
 
-Install module requests
-> pip3 install requests
-
 # Run
 Run main.py in in command prompt
 > Python main.py
