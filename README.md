@@ -14,11 +14,10 @@ Download latest python version from
 <https://www.python.org>
 
 Install module beautifulSoup
-> pip3 install bs4
+`pip3 install bs4`
 
 # Run
-Run main.py in in command prompt
-> Python main.py
+`Python main.py`
 
 # License 
 This project is licensed under the MIT License.
